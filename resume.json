@@ -1,0 +1,114 @@
+
+
+{
+    "basics": {
+      "name": "Maruthi K J",
+      "label": "MR",
+      "picture": "",
+      "email": "maruthikj4@gmail.com",
+      "phone": "+919663458560",
+      "degree": "Bachelor Of Engineering",
+      "website": "Your website URL",
+      "summary": "Seeking a challenging position in a reputable organization to expand and utilize my learning, skills and knowledge",
+      "location": {
+        "address": "Maruthi kj s/o jayanna ko, rangapura,jagalur taluk,davanagere district-577528",
+        "postalCode": "577528",
+        "city": "jagalur",
+        "countryCode": "IND",
+        "region": "karnataka"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "Maruthi2896",
+          "url": "https://github.com/Maruthi2896"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "cognizant technology solutions pvt lmt",
+        "position": "Engineer Trainee",
+        "website": "https://www.cognizant.com/us/en",
+        "startDate": "07 may 2022",
+        "endDate": "11 jan 2023",
+        "summary": "Cognizant helps companies modernize technology, reimagine processes and transform experiences so they stay ahead in a fast-changing world.",
+        "highlights": [
+          "Services",
+          "Application Services & Modernization",
+          " Artificial Intelligence",
+          " Business Process Services",
+          "Cloud Solutions",
+          "Core Modernization",
+          "Digital Experience",
+          "Digital Strategy",
+          "Enterprise Application Services",
+          "Infrastructure Services",
+          "Intelligent Process Automation",
+          "Internet of Things",
+          "Quality Engineering & Assurance"
+          
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "SJM INSTITUTE OF TECHNOLOGY, CHITRADURGA",
+        "area": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "studyType": "REGULAR",
+        "startDate": "01 JULY 2014",
+        "endDate": "30 JUNE 2019",
+        "cgpa": "6.19/10",
+        "courses": [
+         "FUll stack web development By Guvi-ZEN "
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "KANNADA KUVARA DISTRICT AWARD",
+        "date": "8 AUG 2012",
+        "awarder": "KALAAKUNCHA SANMTHE DAVANAGERE",
+        "summary": "This award will be issued to one who achieves 120+ out of 125 marks in kannada language during 10th standerd"
+      },
+      {
+        "title": "Technical Symposium Impulse 2018",
+        "date": "26 sep 2018",
+        "awarder": "Electrical and Electronics Eng DEPT, BIET, DAVANAGERE",
+        "summary": "This award was issued on paper presentation on Hyderogen cars"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Full stack web developing",
+        "level": "",
+        "keywords": [
+          "HTML, CSS, JAVA SCRIPT, REACT JS, NODE JS, MONGO DB, NO SQL,DSA"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "intermediate"
+      },
+      {
+        "language": "kannada",
+        "fluency": "fluent"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Cricket",
+        "keywords": [
+          "Batting","keeper"
+        ]
+      },
+      {
+        "name": "kabbaddi",
+        "keywords": [
+          "Raider","catcher"
+        ]
+      }
+    ]
+  }
