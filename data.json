@@ -1,4 +1,4 @@
-data=[
+ var data=[
     {
       "name": {
         "common": "Japan",
@@ -129,7 +129,7 @@ data=[
         }
       },
       "latlng": [
-        36.0,//0:36.0
+        36.0,
         138.0
       ],
       "landlocked": false,
